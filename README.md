@@ -18,7 +18,8 @@ Um bot para interagir com fãs da FURIA e fornecer informacoes sobre a FURIA e o
 1. **Clone o repositório**:
    Abra o terminal e execute o seguinte comando para clonar o repositório:
    ```bash
-   git clone https://github.com/seuusuario/telegram-bot.git
+   git clone https://github.com/RogerNK03/FURIA-TELEGRAM-BOT.git
+
 
 
 #### **4. Como Contribuir**
